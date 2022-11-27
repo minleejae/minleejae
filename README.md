@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p><a href="https://github.com/minleejae/github-readme-activity-graph"><img width="79%" src="https://activity-graph.herokuapp.com/graph?username=minleejae&bg_color=fafafe&color=000000&line=33333f&custom_title=minleejae's+Contribution+Graph&radius=10" alt="github activity graph" /></a></p>
+<p><a href="https://github.com/minleejae/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=minleejae&bg_color=fafafe&color=000000&line=33333f&custom_title=minleejae's+Contribution+Graph&radius=10" alt="github activity graph" /></a></p>
 
 <!--
 **minleejae/minleejae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
