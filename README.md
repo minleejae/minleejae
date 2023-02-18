@@ -1,5 +1,6 @@
 <h2>Hi there 👋</h2>
-🌱 I’m currently learning Android using Kotlin and Backend with Nest.js
+<div>I’m currently learning Android using Kotlin and Backend with Nest.js.</div>
+<div>I'm interesting in developing Mobile Application Service.</div>
 
 <br/>
 <br/>
