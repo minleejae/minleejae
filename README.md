@@ -1,6 +1,6 @@
-<h2>Hi there 👋</h2>
-<div>I’m currently learning Android using Kotlin and Backend with Nest.js.</div>
-<div>I'm interesting in developing Mobile Application Service.</div>
+<h2>👋 Hi there</h2>
+<div align=center>I’m currently learning <strong>Android</strong> using <strong>Kotlin</strong> and Backend with <strong>Nest.js</strong>.</div>
+<div align=center>I'm interesting in developing Mobile Application Service.</div>
 
 <br/>
 <br/>
