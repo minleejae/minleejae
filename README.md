@@ -29,7 +29,17 @@
 </div>
 <br/>
   
-  
+
+<h2>💻 Experience</h2>
+
+<div align=center>
+ <img src="https://user-images.githubusercontent.com/55116920/219901804-b06822f2-da21-486c-bcb5-6644cf95a2dc.jpg" height="70"/>
+ <div><strong>RPA Solution Develop Intern</strong></div>
+ <div style='color:gray'>2022.12.22 ~ 2023.02.20</div>
+</div>
+
+<br/>
+<br/>
 
 <h2>🚀 More Info</h2>
 <div align=center>
