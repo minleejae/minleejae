@@ -40,10 +40,5 @@
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mmj9808)](https://solved.ac/mmj9808)
-  
-  
-  
-<a href="https://dingcoding.tistory.com/">Blog<a>
-
 </div>
 
