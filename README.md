@@ -34,9 +34,34 @@
 <h2>💻 Experience</h2>
 
 <div align=center>
- <img src="https://user-images.githubusercontent.com/55116920/219901804-b06822f2-da21-486c-bcb5-6644cf95a2dc.jpg" height="70"/>
- <div><strong>RPA Solution Develop Intern</strong></div>
+  <a href="https://spacebank.squarespace.com/">
+   <img src="https://user-images.githubusercontent.com/55116920/219901804-b06822f2-da21-486c-bcb5-6644cf95a2dc.jpg" height="90"/>
+  </a>
+  <div><strong>RPA Solution Develop Intern</strong></div>
  <div style='color:gray'>2022.12.22 ~ 2023.02.20</div>
+</div>
+
+<br/>
+<br/>
+
+<div align=center>
+ <a href="https://www.23haru.com">
+  <img src="https://avatars.githubusercontent.com/u/126999366" height="90"/>
+ </a>
+ <div><strong>Mobile Application Server Develop</strong></div>
+ <div><strong>using Nest.js, AWS</strong><div>
+ <div style='color:gray'>2023.01.15 ~ 2023.06.25</div>
+</div>
+
+<br/>
+<br/>
+
+<div align=center>
+ <a href="https://docs.google.com/presentation/d/1sz0McZ_0Mb279kfVXZtHXZ7vxKqDUGA08K6Jnc7StBQ/edit#slide=id.p">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/University_of_California%2C_Irvine_seal.svg/1200px-University_of_California%2C_Irvine_seal.svg.png" height="100"/>
+ </a>
+ <div><strong>Research Experience at University of California, Irvine</strong></div>
+ <div style='color:gray'>2023.06.28 ~ 2023.08.25</div>
 </div>
 
 <br/>
